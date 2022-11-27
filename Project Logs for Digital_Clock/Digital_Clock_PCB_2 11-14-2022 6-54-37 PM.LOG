@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Digital_Clock_SCH_2.0 Member=H1
+Removed Member From Class: ClassName=Digital_Clock_SCH_2.0 Member=H2
+Removed Member From Class: ClassName=Digital_Clock_SCH_2.0 Member=H3
+Removed Member From Class: ClassName=Digital_Clock_SCH_2.0 Member=H4
+Change Component Footprint: Designator=LOGO1 Old Footprint=PIF LOGO SMALL TOP New Footprint=PIF LOGO BIG SSTOP

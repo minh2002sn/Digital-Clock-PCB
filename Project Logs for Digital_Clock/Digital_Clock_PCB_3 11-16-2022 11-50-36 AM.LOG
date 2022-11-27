@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=3V3 Pin=P6-2
+Removed Pin From Net: NetName=RE_DT Pin=P6-4
+Removed Pin From Net: NetName=RE_CLK Pin=P6-5
+Change Component Footprint: Designator=U1 Old Footprint=MAXM-P8-1 New Footprint=MAXM-P8-1
+Added Pin To Net: NetName=RE_CLK Pin=P6-1
+Added Pin To Net: NetName=RE_DT Pin=P6-2
+Added Pin To Net: NetName=3V3 Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P6-5

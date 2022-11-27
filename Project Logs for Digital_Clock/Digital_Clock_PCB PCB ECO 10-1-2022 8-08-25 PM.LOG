@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=I2C1_SCL Pin=U3-14
+Removed Pin From Net: NetName=I2C1_SDA Pin=U3-15
+Added Pin To Net: NetName=I2C1_SCL Pin=U3-35
+Added Pin To Net: NetName=I2C1_SDA Pin=U3-36
+Change Net Name : Old Net Name=I2C1_SCL New Net Name=I2C2_SCL
+Change Net Name : Old Net Name=I2C1_SDA New Net Name=I2C2_SDA
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component P2 VBAT

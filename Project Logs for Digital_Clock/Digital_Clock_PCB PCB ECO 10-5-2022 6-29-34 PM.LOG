@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP-SM-0805"; UniqueID = "\KCJTLDAS" ("\KCJTLDAS")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP-SM-0805"; UniqueID = "\IQSBFWEZ" ("\IQSBFWEZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=I2C2_SDA_3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=I2C2_SCL_3V3 Pin=R6-2
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component R7 RESISTOR SMD
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component R8 RESISTOR SMD

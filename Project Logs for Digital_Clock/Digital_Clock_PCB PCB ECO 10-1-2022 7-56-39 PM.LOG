@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Member From Class: ClassName=Digital_Clock_SCH Member=BT1
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Added Component: Designator=P2(VBAT CR2030)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1797668.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1797668.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "/datasheets/DANTONA/CRSANYO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "/datasheets/DANTONA/CRSANYO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DANTONA INDUSTRIES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR2032 SANYO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.768, 5=0.655, 10=0.615, 25=0.565, 50=0.51, 100=0.46, 250=0.41 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=U1-3
+Added Net: Name=NetP2_1
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component P4 61300511121

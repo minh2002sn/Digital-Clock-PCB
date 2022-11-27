@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=U1-5
+Removed Pin From Net: NetName=RCC_OSC_IN Pin=U1-6
+Change Net Name : Old Net Name=RCC_OSC_IN New Net Name=GND
+Added Pin To Net: NetName=RCC_OSC_IN Pin=C5-2
+Added Pin To Net: NetName=RCC_OSC_IN Pin=U1-5
+Added Pin To Net: NetName=RCC_OSC_IN Pin=Y2-2
+Added Net: Name=RCC_OSC_IN
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=C6-1
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=Y2-1
+Added Net: Name=RCC_OSC_OUT

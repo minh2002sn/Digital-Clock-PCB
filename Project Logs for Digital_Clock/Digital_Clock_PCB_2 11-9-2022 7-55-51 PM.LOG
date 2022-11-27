@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetB*1_2 Pin=Q1-2
+Removed Member From Class: ClassName=Digital_Clock_SCH_2.0 Member=Q1
+Added Component: Designator=Q?(SOT23B)
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=NetB*1_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R1-2
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=Digital_Clock_SCH_2.0 Member=Component Q? C1815

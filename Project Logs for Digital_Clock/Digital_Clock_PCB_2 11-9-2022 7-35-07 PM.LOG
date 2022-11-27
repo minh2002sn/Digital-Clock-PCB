@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=U5 Old Footprint=MAXM-P8-1 New Footprint=MAXM-P8-1
+Change Component Designator: OldDesignator=B*2 NewDesignator=B*1
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=D4 NewDesignator=D2
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=F2 NewDesignator=F1
+Change Component Designator: OldDesignator=H5 NewDesignator=H1
+Change Component Designator: OldDesignator=H6 NewDesignator=H2
+Change Component Designator: OldDesignator=H7 NewDesignator=H3
+Change Component Designator: OldDesignator=H8 NewDesignator=H4
+Change Component Designator: OldDesignator=LOGO2 NewDesignator=LOGO1
+Change Component Designator: OldDesignator=P5 NewDesignator=P1
+Change Component Designator: OldDesignator=P6 NewDesignator=P2
+Change Component Designator: OldDesignator=P7 NewDesignator=P3
+Change Component Designator: OldDesignator=P8 NewDesignator=P4
+Change Component Designator: OldDesignator=P9 NewDesignator=P5
+Change Component Designator: OldDesignator=P10 NewDesignator=P6
+Change Component Designator: OldDesignator=P11 NewDesignator=P7
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R9 NewDesignator=R1
+Change Component Designator: OldDesignator=R10 NewDesignator=R2
+Change Component Designator: OldDesignator=R11 NewDesignator=R3
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Change Component Designator: OldDesignator=R13 NewDesignator=R5
+Change Component Designator: OldDesignator=R14 NewDesignator=R6
+Change Component Designator: OldDesignator=U4 NewDesignator=U1
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=Y2 NewDesignator=Y1
+Change Component Designator: OldDesignator=Y3 NewDesignator=Y2
+Added Component: Designator=C7(CAP-SM-0603)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RCC_OSC_IN Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Change Net Name : Old Net Name=NetB*2_2 New Net Name=NetB*1_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetF2_2 New Net Name=NetF1_2
+Change Net Name : Old Net Name=NetP6_1 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetP9_1 New Net Name=NetP5_1
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetU5_1 New Net Name=NetU2_1
+Change Net Name : Old Net Name=NetU5_2 New Net Name=NetU2_2
+Added Member To Class: ClassName=Digital_Clock_SCH_2.0 Member=Component C7 Cap Non-Pol SMD
+Added Room: Name=Digital_Clock_SCH_2.0

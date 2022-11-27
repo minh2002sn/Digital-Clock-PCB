@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=F1-1
+Added Pin To Net: NetName=Vin Pin=F1-2
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component D1 D Schottky
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component D2 LED
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component F1 Fuse
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component R3 RESISTOR SMD
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component R4 RESISTOR SMD

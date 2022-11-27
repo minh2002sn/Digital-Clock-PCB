@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BUZZER Pin=U3-25
+Removed Pin From Net: NetName=DHT_PIN Pin=U3-26
+Added Pin To Net: NetName=DHT_PIN Pin=U3-25
+Added Pin To Net: NetName=BUZZER Pin=U3-26

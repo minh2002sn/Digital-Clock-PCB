@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=U1 Old Footprint=MAXM-P8-1 New Footprint=MAXM-P8-1
+Added Component: Designator=P5(VBAT CR2030)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1797668.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1797668.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "/datasheets/DANTONA/CRSANYO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "/datasheets/DANTONA/CRSANYO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DANTONA INDUSTRIES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR2032 SANYO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.768, 5=0.655, 10=0.615, 25=0.565, 50=0.51, 100=0.46, 250=0.41 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Added Component: Designator=U2(BLUEPILL)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "59M2182"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL 32768 3x8)
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=RS Pin=U2-1
+Added Pin To Net: NetName=RW Pin=U2-2
+Added Pin To Net: NetName=EN Pin=U2-3
+Added Pin To Net: NetName=BL Pin=U2-4
+Added Pin To Net: NetName=D4 Pin=U2-5
+Added Pin To Net: NetName=D5 Pin=U2-6
+Added Pin To Net: NetName=D6 Pin=U2-7
+Added Pin To Net: NetName=D7 Pin=U2-8
+Added Pin To Net: NetName=CLK Pin=U2-10
+Added Pin To Net: NetName=DT Pin=U2-11
+Added Pin To Net: NetName=SW Pin=U2-12
+Added Pin To Net: NetName=5V Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=3V3 Pin=U2-20
+Added Pin To Net: NetName=DHT_PIN Pin=U2-25
+Added Pin To Net: NetName=BUZZER Pin=U2-26
+Added Pin To Net: NetName=I2C_SCL Pin=U2-35
+Added Pin To Net: NetName=I2C_SDA Pin=U2-36
+Added Pin To Net: NetName=3V3 Pin=U2-38
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=GND Pin=U2-40
+Added Pin To Net: NetName=NetU1_2 Pin=Y1-1
+Added Pin To Net: NetName=NetU1_1 Pin=Y1-2
+Added Member To Class: ClassName=Digital_Clock_Backup_SCH Member=Component P5 VBAT
+Added Member To Class: ClassName=Digital_Clock_Backup_SCH Member=Component U2 BLUEPILL
+Added Member To Class: ClassName=Digital_Clock_Backup_SCH Member=Component Y1 32.768kHz
+Added Room: Name=Digital_Clock_Backup_SCH

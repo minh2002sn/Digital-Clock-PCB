@@ -1,0 +1,4 @@
+Added Component: Designator=Y1(XTAL 32768 3x8)
+Added Pin To Net: NetName=NetU2_2 Pin=Y1-1
+Added Pin To Net: NetName=NetU2_1 Pin=Y1-2
+Added Member To Class: ClassName=Digital_Clock_SCH Member=Component Y1 32.768kHz

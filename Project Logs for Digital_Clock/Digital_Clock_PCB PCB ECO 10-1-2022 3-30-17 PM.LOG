@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DHT_PIN Pin=R3-2
+Removed Pin From Net: NetName=DHT_PIN Pin=U3-25
+Added Pin To Net: NetName=DHT_PIN Pin=R3-1
+Change Net Name : Old Net Name=DHT_PIN New Net Name=3V3
+Added Pin To Net: NetName=DHT_PIN Pin=R3-2
+Added Pin To Net: NetName=DHT_PIN Pin=U2-2
+Added Pin To Net: NetName=DHT_PIN Pin=U3-25
+Added Net: Name=DHT_PIN
