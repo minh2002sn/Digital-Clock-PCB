@@ -1,0 +1,21 @@
+Added Component: Designator=U2(DIP254P762X508-20)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74HC245N/Texas%20Instruments/view-part/53757/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74HC245N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-20 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74HC245N/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74HC245N/Texas%20Instruments/view-part/53757/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=NetP8_1 Pin=U2-2
+Added Pin To Net: NetName=NetP8_2 Pin=U2-3
+Added Pin To Net: NetName=NetP8_3 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=RE_SW Pin=U2-16
+Added Pin To Net: NetName=RE_DT Pin=U2-17
+Added Pin To Net: NetName=RE_CLK Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=3V3 Pin=U2-20
+Added Member To Class: ClassName=Digital_Clock_SCH_4.0 Member=Component U2 SN74HC245N

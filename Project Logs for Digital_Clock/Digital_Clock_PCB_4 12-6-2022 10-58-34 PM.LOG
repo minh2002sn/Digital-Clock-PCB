@@ -1,0 +1,13 @@
+Added Component: Designator=P2(VBAT CR2030)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1797668.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1797668.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "/datasheets/DANTONA/CRSANYO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "/datasheets/DANTONA/CRSANYO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DANTONA INDUSTRIES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR2032 SANYO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.768, 5=0.655, 10=0.615, 25=0.565, 50=0.51, 100=0.46, 250=0.41 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC3_14 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=IC1-4
+Removed Pin From Net: NetName=3V3 Pin=IC2-4
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Member From Class: ClassName=Digital_Clock_SCH_4.0 Member=P8
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Added Pin To Net: NetName=GND Pin=P1-1
+Change Net Name : Old Net Name=NetP6_3 New Net Name=NetP5_3
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetP7_1
+Change Net Name : Old Net Name=NetP8_2 New Net Name=NetP7_2
+Change Net Name : Old Net Name=NetP8_3 New Net Name=NetP7_3
+Added Member To Class: ClassName=Digital_Clock_SCH_4.0 Member=Component LOGO1 LOGO PIF

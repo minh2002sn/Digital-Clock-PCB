@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=IC1-4
+Added Pin To Net: NetName=RTC_INT Pin=U1-33
+Added Member To Class: ClassName=Digital_Clock_SCH_4.0 Member=Component P3 61300311121
+Added Member To Class: ClassName=Digital_Clock_SCH_4.0 Member=Component P4 61300411121
+Added Member To Class: ClassName=Digital_Clock_SCH_4.0 Member=Component P7 61300511121
